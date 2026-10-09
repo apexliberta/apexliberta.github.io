@@ -27,7 +27,7 @@
 * **Training & Growth:**
     * **The Struggle:** Initial training is grueling due to the boy's weakened state; eventually, he begs Bastian to resume training so he can protect Shadowheart.
     * **Bastian’s Secret:** Seeing his late son's determination in the boy, Bastian has been secretly refitting his late son's armor to fit the Protagonist perfectly.
-    * **Combat Experience:** Hunting aggressive threats like Mind Flayers and Intellect Devourers serves as a brutal training ground, allowing the Protagonist's latent potential to undergo a "gradual opening."
+    * **Combat Experience:** Hunting aggressive threats like Mind Flayers and Intellect Devourers serves as a brutal training ground. Each kill triggers the first whispers—subtle, almost imperceptible murmurs that mark the beginning of an exponential psychological descent.
 * **The Romance:** A deep bond blooms with Shadowheart, characterized by nightly rituals of comfort to soothe his Dark Urge nightmares.
 
 ## 3. The Path to a Cure & The Move to the Campsite
@@ -97,7 +97,10 @@
 **Key Beats:**
 * **The Split:** An Exarch of Mikhail discovers the boy's fractured psyche and splits him into two distinct, warring consciousnesses.
 * **Internal Civil War:** Navigating the battle between a gentle human identity and a bloodthirsty original soul.
-* **The Catalyst of Blood:** Every kill feeds Bhaal's divine spark, making the Dark Urge more awake and brutal.
+* **The Whisper Mechanic (Exponential Descent):** Every kill—whether human or creature—increases the intensity of the whispers. The progression follows an exponential scale ($2^{n-1}$ whispers). 
+    * **Early Kills:** A single, faint whisper that is easily dismissed as paranoia.
+    * **Mid-range Kills:** Multiple voices, growing louder and more persistent, creating constant mental static during combat.
+    * **High Kill Count (30-40+):** The whispers transform into clear, distinct, and commanding voices. They demand gore, ravaging, spoiling, and the defilement of corpses, making every act of violence a struggle against an unbearable urge to commit atrocities.
 * **Unconscious Violence:** Experiencing terrifying blackouts where the body acts out the Urge's muscle memory without permission.
 * **The Flawed Shield:** Consuming tadpoles to cage the Urge inadvertently feeds the original soul.
 * **Ceremorphosis Trap & Apotheosis:** The final mental duel within the mind realm during a failed transformation, leading to a unique hybrid existence.
