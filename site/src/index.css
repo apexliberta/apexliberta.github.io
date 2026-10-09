@@ -35,13 +35,19 @@ main {
 }
 
 header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
     margin-bottom: 3rem;
-}
 
-h1 {
-    font-size: 2.5rem;
-    margin-bottom: 0.5rem;
-    letter-spacing: -0.02em;
+    h1 {
+        font-size: 2.5rem;
+        margin: 0px;
+        letter-spacing: -0.02em;
+    }
+    p {
+        margin: 0px;
+    }
 }
 
 .subtitle {
