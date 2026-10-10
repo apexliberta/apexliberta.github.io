@@ -1,0 +1,58 @@
+.mainHeader {
+    margin: 24px;
+    h1 {
+        line-height: normal;
+        font-size: 32px;
+    }
+    h1,
+    p {
+        margin: 0px;
+        text-align: left;
+    }
+    a {
+        color: #c084fc;
+        &:hover {
+            color: var(--accent);
+        }
+    }
+}
+.mainRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.socialLinks {
+    display: flex;
+    align-items: center;
+    list-style: none;
+    gap: 0.4rem;
+    li {
+        display: inline-flex;
+        &:not(:last-child)::after {
+            content: "|";
+            margin: 0px 0.4rem;
+        }
+    }
+    a {
+        text-transform: uppercase;
+        display: inline-block;
+    }
+}
+
+.mainNav {
+    display: flex;
+    gap: 12px;
+    margin: 24px 0px 6px 0px;
+
+    .navItem {
+        font-size: 18px;
+        font-weight: 500;
+        text-transform: uppercase;
+        cursor: pointer;
+
+        &.active {
+            color: var(--accent);
+        }
+    }
+}
