@@ -35,7 +35,7 @@ _Summary: A period of intensive physical growth and psychological tension as the
 - **Training & Growth:**
 - **The Struggle:** Training starts off grueling due to the boy's frail body. Driven by a fierce desire to protect Shadowheart, he begs Bastian for harder instruction.
 - **Bastian’s Secret:** Recognizing his late son's grit in the boy, Bastian secretly refits his deceased son's custom armor to fit the Protagonist.
-- **Combat Experience:** Hunting regional threats (Mind Flayers, Intellect Devourers) serves as a brutal trial. Each kill whispers a faint, almost imperceptible murmur—marking the start of an exponential dark descent.
+- **Combat Experience:** Hunting regional threats (Mind Flayers, Intellect Devourers) serves as a brutal trial. Each kill whispers a faint, almost imperceptible murmur—marking the start of a dark, dormant descent.
 
 - **The Romance:** A deep bond flourishes with Shadowheart, filled with nightly rituals of comfort to soothe his violent nightmares.
 
@@ -84,6 +84,7 @@ _Summary: Uncovering Kagha's treachery while utilizing dark illithid powers to b
 - **Exposing Kagha & Stopping the Rite:**
 - The Protagonist locates the hidden letter in the Sunlit Wetlands incriminating Kagha in a conspiracy with the Shadow Druids.
 - Returning to the Grove, he confronts Kagha with the proof. Using `[DETECT THOUGHTS]` and `[HISTORY]` (referencing ancient druidic frescoes), he convinces her to break away from the Shadow Druids.
+
 - **Kagha’s Penance (Companion):** Overcome with guilt, Kagha halts the Rite of Thorns. As penance for her treason, she steps down from leadership and joins the party directly on the field.
 - **Savior of the Grove & Arrival of Wyll:** The Protagonist is officially declared the **Savior of the Grove**. Inspired by these heroic acts, **Wyll officially joins the party** as a companion.
 
@@ -108,7 +109,7 @@ _Summary: Paving a safe migration path for the Tiefling refugees._
 **Key Beats:**
 
 - **The Offensive:** To clear the road to Baldur’s Gate for Zevlor’s refugees, the Protagonist and the Tiefling militia launch a violent raid on the Blighted Village.
-- **Clearing the Threats:** The party slaughters the goblin garrison _(Full combat encounter detailing the Lump the Enlightened’s ogre trio, the troll pair, and rescuing Barcus Wroot—the Deep Gnome tied to the windmill fan)_.
+- **Clearing the Threats:** The party slaughters the goblin garrison _(Full combat encounter detailing Lump the Enlightened’s ogre trio, the troll pair, and rescuing Barcus Wroot—the Deep Gnome tied to the windmill fan)_.
 - **Resting the Militia:** Exhausted and wounded from the fierce battle, the Tiefling militia remains at the cleared village to recover, leaving only the main party free to act.
 
 ---
@@ -124,6 +125,7 @@ _Summary: Defeating Auntie Ethel and orchestrating a tragic lie to protect a bro
 - **The Confrontation & The Deception:**
 - Distraught, Mayrina prepares to march to Baldur's Gate with the zombie husband to find a cure. The Protagonist stops her, reminding her that Johl and Demir are waiting at the Grove and deserve answers.
 - Mayrina breaks down, admitting she cannot face her brothers: she cannot bring herself to tell them she traded her unborn child to a hag for a dead man, only for it to fail so miserably.
+
 - **The Protagonist’s Plan:** The Protagonist counsels her to construct a protective lie. Mayrina agrees and returns to the Grove with the party.
 - **The Lie at the Grove:** Mayrina tells Johl and Demir that Auntie Ethel inflicted a rare, lingering hex/poison on her, requiring her to travel to Baldur's Gate for specialized treatment. She tells them she plans to settle there permanently with her child to leave behind the painful memories of Connor. Though the brothers insist on accompanying her, she convinces them to let her go alone, giving them closure without destroying them with the awful truth.
 
@@ -149,10 +151,11 @@ _Summary: Minthara leads a full-scale assault on the Druid Grove. Desperate to s
 **Key Beats:**
 
 - **The Siege Begins:** Minthara leads an army of goblins, war drums, and massive spiders to breach the Emerald Grove’s defenses. The Tiefling militia and party hold the ridge, but are rapidly overwhelmed by sheer numbers.
-- **Desperation & The Trigger:** With Shadowheart and his loved ones on the brink of being slaughtered, the Protagonist’s fierce desire to protect transforms into a primal, overwhelming urge to _slaughter every single invader_.
-- **The Awakening (Burst of Blades):**
-- The Dark Urge awakens violently. Driven by extreme adrenaline and bloodlust, the Protagonist invokes a terrifying, visceral spell: **shards of bloody, agonizing blades burst outward from inside the bodies of the goblins and beasts**.
-- War-spiders and goblin soldiers erupt in an instant, gruesome massacre of blood and iron.
+- **Desperation & The Catalyst:** With Shadowheart and his loved ones on the brink of slaughter, the Protagonist normally resists the violent urges inside his mind. However, facing imminent defeat, his raw desire to protect aligns perfectly with the dark urges/whispers.
+- **The Awakening (Dragonborn Storm Sorcerer Bhaalspawn Power-Up):**
+- In this desperate moment, he briefly unlocks a fraction of his true heritage as a **Dragonborn Storm Sorcerer Bhaalspawn**.
+- Storm and blood-magic surge together in a terrifying, visceral manifestation: **shards of bloody, agonizing blades burst outward from inside the bodies of the goblins and beasts** (_Burst of Blades_).
+- War-spiders and goblin soldiers erupt in an instant, gruesome massacre. Because this power-up is a temporary surge born of adrenaline and sudden alignment with the Urge, it leaves him completely drained and terrified afterward.
 
 - **Minthara’s Terror & Flight:** Horrified by the sudden, unnatural carnage and realizing she is outmatched by an eldritch abomination, Minthara retreats with her surviving generals. _(Setting up her judgment at Moonrise Towers in Act 2)._
 - **Friend of the Druids & Fear-Driven Exile:**
@@ -162,7 +165,18 @@ _Summary: Minthara leads a full-scale assault on the Druid Grove. Desperate to s
 
 ---
 
-## 11. The Shrouded Vessel: The Dual Consciousness (Future Arc)
+## 11. Expanded Party Mechanics & Multi-Squad Operations
+
+_Summary: Unshackled from video game party limits, the group operates as a large traveling company, utilizing multi-squad tactics for complex missions._
+
+**Key Beats:**
+
+- **Novel-Scale Roster:** The party consists of Shadowheart, Wyll, Karlach, Gale, Kagha, and camp assets like Andrick and Brynna.
+- **Party Splitting Tactics:** Unbound by game mechanics, the narrative splits the roster into two or more specialized squads when necessary (e.g., one group conducting front-line combat while another performs tactical reconnaissance or secures supply lines).
+
+---
+
+## 12. The Shrouded Vessel: The Dual Consciousness (Future Arc)
 
 _Summary: The psychological war between the human identity and the Dark Urge reaches a crisis point._
 
@@ -170,11 +184,10 @@ _Summary: The psychological war between the human identity and the Dark Urge rea
 
 - **The Split:** An Exarch of Mikhail discovers the boy's fractured psyche, splitting him into two distinct, warring consciousnesses within his mind.
 - **Internal Civil War:** A constant battle between the gentle human persona who wants to love and protect, and the bloodthirsty original soul longing for carnage.
-- **The Whisper Mechanic (Exponential Descent):**
-- Every kill increases whisper intensity ($2^{n-1}$ scale).
-- _Early Kills:_ A faint murmur easily dismissed.
-- _Mid-range Kills:_ Overlapping voices creating combat static.
-- _High Kill Count (30-40+):_ Commanding, thunderous voices demanding mutilation, defilement, and utter destruction.
+- **The Whispers & Alignment Trigger:**
+- Whispers flare up intensely whenever his will or desperation aligns with the urge (as seen in the Siege).
+- _Low-Stress/Normal State:_ Whispers are a faint, controllable background murmur.
+- _High-Stress/Extreme Alignment:_ Whispers amplify into commanding, thunderous voices demanding mutilation and total destruction, unlocking temporary bursts of Bhaalspawn power.
 
 - **Unconscious Violence:** Terrifying blackouts where the body executes the Dark Urge's muscle memory without his conscious consent.
 - **The Flawed Shield:** Consuming illithid tadpoles cages the Urge temporarily, but secretly nourishes his original divine soul.
