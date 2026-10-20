@@ -131,7 +131,29 @@ _Summary: Defeating Auntie Ethel and orchestrating a tragic lie to protect a bro
 
 ---
 
-## 9. Waukeen's Rest & The Gnoll Ambush
+## 9. Awakening of the Fey Enchantress (Morgiana le Fay)
+
+_Summary: A mysterious summons leads the Protagonist to an ancient Exarch, who steps into the vacuum of power at the Emerald Grove._
+
+**Key Beats:**
+
+- **The Soft Summons:** During a night's rest at camp after rescuing Mayrina, the Protagonist hears a sweet, melodious woman's voice calling out to him. It is distinct from his usual bloodthirsty whispers—it carries zero malice or murderous intent.
+- **The Sanctuary Tree Encounter:** Following the gentle voice into the Wetlands druid sanctuary, he approaches an ancient tree. From within its bark emerges **Morgiana le Fay**, a legendary Fey Enchantress.
+
+> ### **Profile: Morgiana le Fay**
+>
+> - **Title & Alignment:** Exarch of **Mielikki** (Our Lady of the Forest).
+> - **Physical Appearance:** Appears as a young mortal woman in her early twenties (21–23). She lacks any glowing divine aura, levitation, or obvious magic, but possesses an extraordinarily sharp, piercing gaze and an unyielding, regal posture betraying infinite age and wisdom.
+> - **Current Condition:** Severed completely from her divine link to Mielikki, her magic reserves are depleted, rendering her functionally mortal and "ghost-like" (invisible to divine detection). She cannot cast high-tier spells and relies entirely on her immense tactical wits, ancient lore, and the party.
+> - **Personality:** Highly tactical, possessor of vast planar history, fiercely protective of the innocent, uncompromising against corruption.
+
+- **Becoming the Voice of the Grove:**
+- Recognizing the political leadership crisis in the Emerald Grove (with Kagha stepping down in disgrace and Halsin missing), Morgiana moves to the Grove.
+- Utilizing her boundless wisdom and ancient druidic authority, she takes command as the new **Voice of the Grove**, stepping in to guide the enclave and stabilize the Druids and Tieflings before the coming onslaught.
+
+---
+
+## 10. Waukeen's Rest & The Gnoll Ambush
 
 _Summary: Rescuing high-ranking officials and battling the demonic gnoll packs on the road._
 
@@ -142,7 +164,7 @@ _Summary: Rescuing high-ranking officials and battling the demonic gnoll packs o
 
 ---
 
-## 10. The Siege of the Grove & The Dark Awakening
+## 11. The Siege of the Grove & The Dark Awakening
 
 _(Replaces the Alfira/Quil camp murder event)_
 
@@ -159,15 +181,15 @@ _Summary: Minthara leads a full-scale assault on the Druid Grove. Desperate to s
 
 - **Minthara’s Terror & Flight:** Horrified by the sudden, unnatural carnage and realizing she is outmatched by an eldritch abomination, Minthara retreats with her surviving generals. _(Setting up her judgment at Moonrise Towers in Act 2)._
 - **Friend of the Druids & Fear-Driven Exile:**
-- With the goblins routed, the grove is saved. The druids formally declare the Protagonist a **Friend of the Druids** for protecting their sacred home.
+- With the goblins routed, the grove is saved. Under Morgiana's new leadership, the druids formally declare the Protagonist a **Friend of the Druids** for protecting their sacred home.
 - However, the sheer horror of the gore and bloody blade magic leaves the Tieflings and Druids terrified of him. Fearing he could lose control and slaughter them next, the community gently asks him to camp outside the inner grove.
 - The party migrates back outside to set up camp near the **original seaside/riverside camp**, isolated for everyone's safety.
 
 ---
 
-## 11. The Night Visit & The Fey Consultation
+## 12. The Night Visit & Consultation with Morgiana
 
-_Summary: Sceleritas Fel makes contact following the massacre, while a Fey Enchantress reveals the terrifying truth about the Protagonist's returning memories._
+_Summary: Sceleritas Fel makes contact following the massacre, while Morgiana reveals the terrifying truth about the Protagonist's returning memories._
 
 **Key Beats:**
 
@@ -175,27 +197,27 @@ _Summary: Sceleritas Fel makes contact following the massacre, while a Fey Encha
 - In the quiet aftermath of the bloody siege, the butler **Sceleritas Fel** appears to the Protagonist at night (replacing the Alfira/Quil camp murder event).
 - Fel praises the Protagonist for the carnage at the Grove and gifts him the **Deathstalker Mantle**, formally acknowledging him as Bhaal's chosen child.
 
-- **Seeking the Fey Enchantress:**
-- Deeply disturbed by Fel’s visit and his looming divine heritage, the Protagonist seeks out a powerful **Fey Enchantress** for guidance.
-- **The Memory Crisis:** She explains that his amnesia is slowly curing itself. Bit by bit, fragments of his past self are resurfacing. If this progression continues, he will eventually regain ALL his past memories and fully revert to his original, bloodthirsty persona.
-- **The Choice:** She asks what he desires—assuming he wants his memories restored. The Protagonist adamantly **refuses**. He states he wants the _exact opposite_: to NEVER remember his past life, to remain his current self, to stay in love with Shadowheart, and to escape the shadow of his father, Bhaal, God of Murder.
+- **Consulting Morgiana le Fay:**
+- Deeply disturbed by Fel’s visit and his looming divine heritage, the Protagonist seeks private counsel from **Morgiana le Fay**.
+- **The Memory Crisis:** Morgiana explains that his amnesia is slowly curing itself. Bit by bit, fragments of his past self are resurfacing. If this progression continues, he will eventually regain ALL his past memories and fully revert to his original, bloodthirsty persona.
+- **The Choice:** Morgiana poses the question assuming he wants his past memories back. The Protagonist adamantly **refuses**. He states he wants the _exact opposite_: to NEVER remember his past life, to remain his current self, to stay in love with Shadowheart, and to escape the shadow of his father, Bhaal, God of Murder.
 
 ---
 
-## 12. The Fey Enchantress’s Solution & Soul-Binding Mechanics
+## 13. Morgiana’s Solution & Soul-Binding Mechanics
 
 _Summary: A radical plan to split his consciousness and a dangerous ritual to overcome his original soul through karmic bonding._
 
 **Key Beats:**
 
-- **The Mind Split:** The Enchantress proposes a solution: rather than letting the amnesia fade naturally, she can magically separate his past self and current self into **two distinct consciousnesses** inside his mind.
+- **The Mind Split:** Morgiana proposes a solution: rather than letting the amnesia fade naturally, she can magically separate his past self and current self into **two distinct consciousnesses** inside his mind.
 - **The Goal & The Catch:** To gain total, permanent control over his body and silence the whispers forever, the current Protagonist must eventually **defeat and absorb his original past self**.
 - **The Karma Dilemma:**
-- The Enchantress warns that defeating his old self will be near-impossible under normal circumstances. The original soul is the _rightful owner_ of the body; the entire universe/creation favors the old self because it possesses vastly more **soul karma**.
+- Morgiana warns that defeating his old self will be near-impossible under normal circumstances. The original soul is the _rightful owner_ of the body; the entire universe/creation favors the old self because it possesses vastly more **soul karma**.
 - To stand a chance, the current self needs to cultivate more karma than the old self—a task that is virtually impossible to measure or achieve alone.
 
 - **The Shortcut Ritual (Soul-Binding):**
-- The Enchantress reveals a high-stakes shortcut: a ritual that **bonds his soul to another being (specifically women)**.
+- Morgiana reveals a high-stakes shortcut: a ritual that **bonds his soul to another being (specifically women)**.
 - By partially absorbing a portion of another person’s soul, both participants bind their destinies and fates together.
 
 ### **Mechanics & Rules of the Soul-Binding Ritual:**
@@ -226,18 +248,18 @@ _Summary: A radical plan to split his consciousness and a dangerous ritual to ov
 
 ---
 
-## 13. Expanded Party Mechanics & Multi-Squad Operations
+## 14. Expanded Party Mechanics & Multi-Squad Operations
 
 _Summary: Unshackled from video game party limits, the group operates as a large traveling company, utilizing multi-squad tactics for complex missions._
 
 **Key Beats:**
 
-- **Novel-Scale Roster:** The party consists of Shadowheart, Wyll, Karlach, Gale, Kagha, and camp assets like Andrick and Brynna.
+- **Novel-Scale Roster:** The party consists of Shadowheart, Wyll, Karlach, Gale, Kagha, Morgiana le Fay, and camp assets like Andrick and Brynna.
 - **Party Splitting Tactics:** Unbound by game mechanics, the narrative splits the roster into two or more specialized squads when necessary (e.g., one group conducting front-line combat while another performs tactical reconnaissance or secures supply lines).
 
 ---
 
-## 14. The Shrouded Vessel: The Dual Consciousness (Future Arc)
+## 15. The Shrouded Vessel: The Dual Consciousness (Future Arc)
 
 _Summary: The psychological war between the human identity and the Dark Urge reaches a crisis point._
 
