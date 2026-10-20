@@ -165,7 +165,68 @@ _Summary: Minthara leads a full-scale assault on the Druid Grove. Desperate to s
 
 ---
 
-## 11. Expanded Party Mechanics & Multi-Squad Operations
+## 11. The Night Visit & The Fey Consultation
+
+_Summary: Sceleritas Fel makes contact following the massacre, while a Fey Enchantress reveals the terrifying truth about the Protagonist's returning memories._
+
+**Key Beats:**
+
+- **First Contact with Sceleritas Fel:**
+- In the quiet aftermath of the bloody siege, the butler **Sceleritas Fel** appears to the Protagonist at night (replacing the Alfira/Quil camp murder event).
+- Fel praises the Protagonist for the carnage at the Grove and gifts him the **Deathstalker Mantle**, formally acknowledging him as Bhaal's chosen child.
+
+- **Seeking the Fey Enchantress:**
+- Deeply disturbed by Fel’s visit and his looming divine heritage, the Protagonist seeks out a powerful **Fey Enchantress** for guidance.
+- **The Memory Crisis:** She explains that his amnesia is slowly curing itself. Bit by bit, fragments of his past self are resurfacing. If this progression continues, he will eventually regain ALL his past memories and fully revert to his original, bloodthirsty persona.
+- **The Choice:** She asks what he desires—assuming he wants his memories restored. The Protagonist adamantly **refuses**. He states he wants the _exact opposite_: to NEVER remember his past life, to remain his current self, to stay in love with Shadowheart, and to escape the shadow of his father, Bhaal, God of Murder.
+
+---
+
+## 12. The Fey Enchantress’s Solution & Soul-Binding Mechanics
+
+_Summary: A radical plan to split his consciousness and a dangerous ritual to overcome his original soul through karmic bonding._
+
+**Key Beats:**
+
+- **The Mind Split:** The Enchantress proposes a solution: rather than letting the amnesia fade naturally, she can magically separate his past self and current self into **two distinct consciousnesses** inside his mind.
+- **The Goal & The Catch:** To gain total, permanent control over his body and silence the whispers forever, the current Protagonist must eventually **defeat and absorb his original past self**.
+- **The Karma Dilemma:**
+- The Enchantress warns that defeating his old self will be near-impossible under normal circumstances. The original soul is the _rightful owner_ of the body; the entire universe/creation favors the old self because it possesses vastly more **soul karma**.
+- To stand a chance, the current self needs to cultivate more karma than the old self—a task that is virtually impossible to measure or achieve alone.
+
+- **The Shortcut Ritual (Soul-Binding):**
+- The Enchantress reveals a high-stakes shortcut: a ritual that **bonds his soul to another being (specifically women)**.
+- By partially absorbing a portion of another person’s soul, both participants bind their destinies and fates together.
+
+### **Mechanics & Rules of the Soul-Binding Ritual:**
+
+1. **Roster Scaling:** Requires at least two participants to start (the Protagonist as Master/Host and a partner). Over time, the Host can absorb soul fragments from multiple women to stack their shared karmic weight against his past self.
+2. **Master Position:** The Protagonist (Host) who absorbs the partial soul acts as the Master in the bond.
+3. **Host Benefits/Drawbacks:**
+
+- **No Direct Stat/Power Gains:** The Host gains no direct personal power boosts from absorbing the soul fragment. His benefit is solely accumulating the necessary karmic weight to defeat his past self.
+
+4. **Target Benefits (The Bonded Partner):**
+
+- **Pseudo-Immortality:** The bonded partner can never truly die. If killed in battle, her soul fragment anchors her, allowing her other half to return to the Host.
+- **Shared Power & Knowledge:** The partner can passively draw upon the Host’s vast knowledge, abilities, and power.
+
+5. **Target Drawbacks (The Dark Price):**
+
+- **Vampiric Thrall/Devil Contract Terms:** The partner takes on severe drawbacks equivalent to a vampire thrall bound by a fiendish contract, yielding significant autonomy to the Host's soul.
+
+6. **The Multi-Step Bonding Process:**
+
+- **Step 1: Soul Synchronization:** Both individuals must synchronize their soul wavelengths.
+- _Platonic Path:_ Takes years of deep spiritual alignment (similar to a cleric, priest, or monk synchronizing with a deity or nature).
+- _Intimate Path:_ Achieved far faster through deep emotional and physical intimacy (e.g., his bond with Shadowheart).
+
+- **Step 2: Fragment Transfer:** Only _after_ perfect synchronization can the partial soul transfer take place. Attempting this step without full alignment causes instant fatal feedback, killing both participants.
+- **Step 3: Permanent Binding:** Once transferred, the partner gains the immortality/power-sharing benefits alongside the severe vampire thrall drawbacks.
+
+---
+
+## 13. Expanded Party Mechanics & Multi-Squad Operations
 
 _Summary: Unshackled from video game party limits, the group operates as a large traveling company, utilizing multi-squad tactics for complex missions._
 
@@ -176,14 +237,13 @@ _Summary: Unshackled from video game party limits, the group operates as a large
 
 ---
 
-## 12. The Shrouded Vessel: The Dual Consciousness (Future Arc)
+## 14. The Shrouded Vessel: The Dual Consciousness (Future Arc)
 
 _Summary: The psychological war between the human identity and the Dark Urge reaches a crisis point._
 
 **Key Beats:**
 
-- **The Split:** An Exarch of Mikhail discovers the boy's fractured psyche, splitting him into two distinct, warring consciousnesses within his mind.
-- **Internal Civil War:** A constant battle between the gentle human persona who wants to love and protect, and the bloodthirsty original soul longing for carnage.
+- **Internal Civil War:** The constant internal battle between the gentle current persona wanting love and freedom, and the bloodthirsty original Bhaalspawn soul trapped within the same mind.
 - **The Whispers & Alignment Trigger:**
 - Whispers flare up intensely whenever his will or desperation aligns with the urge (as seen in the Siege).
 - _Low-Stress/Normal State:_ Whispers are a faint, controllable background murmur.
@@ -191,4 +251,4 @@ _Summary: The psychological war between the human identity and the Dark Urge rea
 
 - **Unconscious Violence:** Terrifying blackouts where the body executes the Dark Urge's muscle memory without his conscious consent.
 - **The Flawed Shield:** Consuming illithid tadpoles cages the Urge temporarily, but secretly nourishes his original divine soul.
-- **Ceremorphosis Trap & Apotheosis:** A final mind-realm duel during a failed transformation, culminating in a unique hybrid existence.
+- **Ceremorphosis Trap & Final Apotheosis:** A final mind-realm duel between current self and past self during a failed transformation, where the Protagonist uses his stacked soul-karma to destroy his old identity and achieve complete self-sovereignty.
