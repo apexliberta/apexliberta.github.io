@@ -60,68 +60,87 @@ _Summary: Navigating the bitter politics and looming doom within the Druid Grove
 
 - **The Conflict:** Arriving during a desperate skirmish at the gates involving Aradin, Barth, Remira, and Wyll, the Protagonist helps repel the advance guard.
 - **Seeking Aid:** He meets Nettie, who provides a vial of Wyvern poison alongside a solemn vow: consume it the moment transformation begins.
-- **Shadow Secrets:** The party uncovers evidence linking Kagha to the Shadow Druids.
-- **The Ultimatum:** Kagha, preparing the "Rite of Thorns" to seal and purge the grove from outsiders and refugees, gives an ultimatum: eliminate the goblin leaders threatening them or face total expulsion.
+- **Shadow Secrets:** The party uncovers subtle hints of Kagha's corruption and decides to search for hard proof.
+- **The Ultimatum:** Kagha, preparing the "Rite of Thorns" to seal and purge the grove, gives an ultimatum: eliminate the goblin leaders threatening them or face total expulsion.
 
 ---
 
-## 5. Investigating Kagha & The Unlikely Companions
+## 5. Investigating Kagha, Morally Grey Tactics, & Unlikely Companions
 
-_Summary: Exposing internal corruption leads to an act of penance for Kagha and recruits a renowned hero to the party._
+_Summary: Uncovering Kagha's treachery while utilizing dark illithid powers to build a secret cadre of brainwashed thralls._
 
 **Key Beats:**
 
-- **Exposing Kagha:**
-- Using `[DETECT THOUGHTS] [INTELLIGENCE]`, the Protagonist pierces through Kagha’s fear-driven paranoia and uncovers her treasonous deal with the Shadow Druids.
-- Leveraging `[HISTORY]` to cite ancient druidic frescoes, the Protagonist instills pride in the grove's true legacy, convincing Kagha to break her pledge to the Shadow Druids before the Rite of Thorns is completed.
+- **Rescuing Findal:** On his way out of the Grove to gather evidence of Kagha's collusion with the Shadow Druids, the Protagonist stumbles upon **Findal**, a druid ambushed by goblins in a hidden cave passage. After saving his life, Findal gratefully gifts the Protagonist the **Key of the Ancients**.
+- **Manipulating the True Souls (Morally Grey Arc):**
+- Deep in the wilderness, the party encounters the dying True Soul **Edowin** and his loyal followers, **Andrick and Brynna**.
+- Instead of pushing them to fight the Owlbear or sending them to the goblin camp, the Protagonist uses his illithid tadpole abilities to mentally override their wills. He **brainwashes Andrick and Brynna**, commanding them to report to his campsite. They will serve as unwitting pawns and soldiers for his future goals, marking his first descent into grey, manipulative morality.
 
-- **Kagha's Penance (New Companion):**
-- Filled with remorse for her foolishness and attempt to isolate the grove from the vulnerable refugees, Kagha officially halts the Rite of Thorns.
-- As penance for her crimes and treason, she pledges her druidic powers to the Protagonist's cause, stepping down from leadership to join the party directly on the field.
+- **Intervening in the Wetlands & Meeting the Brothers:**
+- Heading toward the meeting point in the Sunlit Wetlands, the Protagonist finds **Johl and Demir** fiercely arguing with **Auntie Ethel**.
+- He calms the heated confrontation and warns the brothers that rushing blindly into a hag's territory will get them killed—or worse, cause Auntie Ethel to harm their missing sister, Mayrina.
+- Sensing she is hiding a dark nature, the Protagonist urges the brothers to retreat to the safety of the Druid Grove while vowing to save Mayrina himself no matter what.
 
-- **The Arrival of Wyll:**
-- Inspired by the Protagonist’s heroic deeds—stopping the dark ritual, redeeming Kagha, and securing safety for the Tiefling refugees—**Wyll, the Blade of Frontiers, officially joins the party**.
-- Sent by Mizora to hunt Karlach (who escaped the nautiloid), Wyll remains uninfected in this timeline and offers his blade to stand alongside such a selfless leader.
+- **Exposing Kagha & Stopping the Rite:**
+- The Protagonist locates the hidden letter in the Sunlit Wetlands incriminating Kagha in a conspiracy with the Shadow Druids.
+- Returning to the Grove, he confronts Kagha with the proof. Using `[DETECT THOUGHTS]` and `[HISTORY]` (referencing ancient druidic frescoes), he convinces her to break away from the Shadow Druids.
+- **Kagha’s Penance (Companion):** Overcome with guilt, Kagha halts the Rite of Thorns. As penance for her treason, she steps down from leadership and joins the party directly on the field.
+- **Savior of the Grove & Arrival of Wyll:** The Protagonist is officially declared the **Savior of the Grove**. Inspired by these heroic acts, **Wyll officially joins the party** as a companion.
 
 ---
 
-## 6. Gathering Intelligence & Clearing the Blighted Village
+## 6. Expanding the Hunt: Owlbear Cave & Karlach
 
-_Summary: Securing the road to Baldur's Gate for the desperate Tiefling refugees._
+_Summary: Balancing restraint in nature with recruiting a fierce new ally against the fiery hunters._
 
 **Key Beats:**
 
-- **Zevlor’s Deal & Motivation:** Now that the Rite of Thorns is stopped, Zevlor and the Tieflings desperately want to leave the grove and head to Baldur’s Gate. However, the Blighted Village and surrounding roads are overrun by goblins and beasts. Seeing the Protagonist as their savior, Zevlor offers the Tiefling militia’s help to clear the road together.
-- **Reward & Intelligence Gathering:** Cal presents the party with the _Hellrider Gloves_. Meanwhile, speaking with Aradin’s battered squad reveals that the goblins aren't just raiding—they are fighting a disciplined extermination war under orders from Moonrise.
-- **The Battle for Blighted Village:** The Protagonist and the Tiefling militia launch a coordinated strike to cleanse the Blighted Village of goblin scouts and bugbears, establishing a critical foothold along the road.
+- **The Owlbear Cave:** Investigating the cave where Edowin was mortally wounded, the Protagonist chooses restraint. Recognizing the mother Owlbear is merely protecting her nest, he backs down and leaves her in peace. _(Later, after a long rest, goblin raiding parties inevitably hunt down the parent Owlbear)._
+- **Wyll’s Mark:** Upon leaving the cave, Wyll reveals he has picked up a trail leading to his devil mark—the escaped tiefling Karlach.
+- **Recruiting Karlach:** The party confronts **Karlach**. Realizing she is not a devil but a victim of the Blood War, the Protagonist allies with her. Together, they eliminate her pursuers (Anders and the Fake Paladins of Tyr), and Karlach joins the party.
 
 ---
 
-## 7. The Return to the Grove & Mayrina’s Brothers
+## 7. Clearing the Blighted Village
 
-_Summary: While the Tiefling militia recovers from the raid, a new personal tragedy arrives at the Grove's doorstep._
+_Summary: Paving a safe migration path for the Tiefling refugees._
 
 **Key Beats:**
 
-- **Wounded Militia:** After returning victorious from the Blighted Village, the Tieflings are exhausted and nursing combat injuries. They are in no position to fight or assist with further missions.
-- **The Encounter:** At the Grove, the Protagonist meets Mayrina's frantic brothers—**Johl and Demir**—who are desperately searching for their missing sister.
-- **Forming the Rescue Party:** With the Tieflings resting, only a small strike force is available: **Protagonist, Shadowheart, Gale, Wyll**, and the two brothers.
+- **The Offensive:** To clear the road to Baldur’s Gate for Zevlor’s refugees, the Protagonist and the Tiefling militia launch a violent raid on the Blighted Village.
+- **Clearing the Threats:** The party slaughters the goblin garrison _(Full combat encounter detailing the Lump the Enlightened’s ogre trio, the troll pair, and rescuing Barcus Wroot—the Deep Gnome tied to the windmill fan)_.
+- **Resting the Militia:** Exhausted and wounded from the fierce battle, the Tiefling militia remains at the cleared village to recover, leaving only the main party free to act.
 
 ---
 
-## 8. Auntie Ethel & The Fey Encounter
+## 8. Rescuing Mayrina & The Bittersweet Deception
 
-_Summary: Confronting the hag in the wetlands leads to an unexpected encounter with an ancient Fey power._
+_Summary: Defeating Auntie Ethel and orchestrating a tragic lie to protect a broken family._
 
 **Key Beats:**
 
-- **Confrontation with Auntie Ethel:** The party (Protagonist, Shadowheart, Gale, Wyll, and optional brothers) descends into the hag's lair to rescue Mayrina, overcoming illusions, poisoned masks, and Ethel's wicked magic.
-- **The Call of the Sanctuary:** While exiting the Sunlit Wetlands, a mysterious, melodic voice begins ringing inside the Protagonist’s head, beckoning him toward a ruined, ancient druid sanctuary tree buried deep in the marsh.
-- **The Fey Enchantress Emerges:** Leaving the main path to investigate, the Protagonist approaches the colossal, decayed tree. As his hand touches the ancient bark, magic weaves through the mist, and the **Fey Enchantress** steps forth from the hollow trunk—offering cryptic warnings about the ancient parasite in his head and the dark blood inside his veins.
+- **Slaying the Hag:** The Protagonist, Shadowheart, Gale, Wyll, and Karlach storm Auntie Ethel's subterranean lair, breaking her illusions and slaying the hag to free Mayrina.
+- **The Bitter Divorce:** The Protagonist uses the magical wand _Bitter Divorce_ on Connor's coffin, raising Mayrina's deceased husband—now a mindless, rotting zombie.
+- **The Confrontation & The Deception:**
+- Distraught, Mayrina prepares to march to Baldur's Gate with the zombie husband to find a cure. The Protagonist stops her, reminding her that Johl and Demir are waiting at the Grove and deserve answers.
+- Mayrina breaks down, admitting she cannot face her brothers: she cannot bring herself to tell them she traded her unborn child to a hag for a dead man, only for it to fail so miserably.
+- **The Protagonist’s Plan:** The Protagonist counsels her to construct a protective lie. Mayrina agrees and returns to the Grove with the party.
+- **The Lie at the Grove:** Mayrina tells Johl and Demir that Auntie Ethel inflicted a rare, lingering hex/poison on her, requiring her to travel to Baldur's Gate for specialized treatment. She tells them she plans to settle there permanently with her child to leave behind the painful memories of Connor. Though the brothers insist on accompanying her, she convinces them to let her go alone, giving them closure without destroying them with the awful truth.
 
 ---
 
-## 9. The Siege of the Grove & The Dark Awakening
+## 9. Waukeen's Rest & The Gnoll Ambush
+
+_Summary: Rescuing high-ranking officials and battling the demonic gnoll packs on the road._
+
+**Key Beats:**
+
+- **The Burning Inn:** Spotting thick black smoke on the horizon, the party ventures to **Waukeen's Rest**. The Protagonist bravely breaches the burning flames to rescue **Counsellor Florrick** and the trapped man, **Benryn**.
+- **The Gnoll Warband:** On the trek back toward the Grove, the party encounters and eliminates a ravenous pack of **Gnolls** harassing travelers, further securing the region's wilderness roads.
+
+---
+
+## 10. The Siege of the Grove & The Dark Awakening
 
 _(Replaces the Alfira/Quil camp murder event)_
 
@@ -130,19 +149,20 @@ _Summary: Minthara leads a full-scale assault on the Druid Grove. Desperate to s
 **Key Beats:**
 
 - **The Siege Begins:** Minthara leads an army of goblins, war drums, and massive spiders to breach the Emerald Grove’s defenses. The Tiefling militia and party hold the ridge, but are rapidly overwhelmed by sheer numbers.
-- **Desperation & The Trigger:** With Shadowheart and his loved ones on the brink of being slaughter-bound, the Protagonist’s desire to protect transforms into a primal, overwhelming urge to _slaughter every single invader_.
+- **Desperation & The Trigger:** With Shadowheart and his loved ones on the brink of being slaughtered, the Protagonist’s fierce desire to protect transforms into a primal, overwhelming urge to _slaughter every single invader_.
 - **The Awakening (Burst of Blades):**
 - The Dark Urge awakens violently. Driven by extreme adrenaline and bloodlust, the Protagonist invokes a terrifying, visceral spell: **shards of bloody, agonizing blades burst outward from inside the bodies of the goblins and beasts**.
 - War-spiders and goblin soldiers erupt in an instant, gruesome massacre of blood and iron.
 
-- **Minthara’s Terror & Flight:** Horrified by the sudden, unnatural carnage and realizing she is outmatched by an eldritch abomination, Minthara retreats with her surviving generals. _(This sets up her judgment at Moonrise Towers in Act 2 for failing the Absolute)._
-- **Fear & Exile to the Riverside:**
-- Though the Grove is saved, the tieflings and druids look at the Protagonist not as a hero, but as a monster. The horror on their faces breaks his heart.
-- Fearing he will lose control again and turn on them, the community asks him to leave the inner grove. The party migrates back outside to set up camp near the **original seaside/riverside camp**, isolated from the refugees for everyone's safety.
+- **Minthara’s Terror & Flight:** Horrified by the sudden, unnatural carnage and realizing she is outmatched by an eldritch abomination, Minthara retreats with her surviving generals. _(Setting up her judgment at Moonrise Towers in Act 2)._
+- **Friend of the Druids & Fear-Driven Exile:**
+- With the goblins routed, the grove is saved. The druids formally declare the Protagonist a **Friend of the Druids** for protecting their sacred home.
+- However, the sheer horror of the gore and bloody blade magic leaves the Tieflings and Druids terrified of him. Fearing he could lose control and slaughter them next, the community gently asks him to camp outside the inner grove.
+- The party migrates back outside to set up camp near the **original seaside/riverside camp**, isolated for everyone's safety.
 
 ---
 
-## 10. The Shrouded Vessel: The Dual Consciousness (Future Arc)
+## 11. The Shrouded Vessel: The Dual Consciousness (Future Arc)
 
 _Summary: The psychological war between the human identity and the Dark Urge reaches a crisis point._
 
