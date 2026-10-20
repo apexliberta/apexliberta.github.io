@@ -1,106 +1,161 @@
 # Story Progression: Hybrid Beat Sheet
 
 ## 1. Prologue: The Nautiloid Crash
-*Summary: A chaotic descent from the sky leads to a life-altering alliance between two survivors.*
+
+_Summary: A chaotic descent from the sky leads to a life-altering alliance between two survivors._
 
 **Key Beats:**
-* **The Fall:** During the crash, the Protagonist—a weakened, amnesiac boy possessing only half the strength of a normal human—is protected by a mysterious being.
-* **The Meeting:** Upon waking on the beach, he discovers Shadowheart lying unconscious nearby.
-* **The Alliance:** After waking her, they realize both are infected with dangerous mindflayer tadpoles and decide to team up for survival.
+
+- **The Fall:** During the crash, the Protagonist—a severely weakened, amnesiac boy possessing only half the physical strength of an average human—is protected by a shadowy entity during the ship's descent.
+- **The Meeting:** Waking on the sunlit beach, he finds Shadowheart unconscious nearby, clutching her mysterious Githyanki artifact.
+- **The Alliance:** After reviving her, they realize both host mindflayer tadpoles behind their eyes and form a pact of mutual survival.
+
+---
 
 ## 2. The Sanctuary of the Farm (The Three-Month Training)
-*Summary: A period of intensive physical growth and psychological tension as the Protagonist learns to fight while maintaining a complex, dangerous lie.*
+
+_Summary: A period of intensive physical growth and psychological tension as the Protagonist learns to fight while maintaining a complex, dangerous web of secrets._
 
 **Key Beats:**
-* **The Ruse & "The Web of Secrets":**
-    * **The Lie:** Posing as an eloped couple (a sheltered noble boy and a street-level woman) to hide their tadpole infection.
-    * **Social Dynamics:** A chaotic cycle of "information gaps" and mischievous banter:
 
-        1.  **The First Confession:** The Protagonist tells Elara that they aren't a real couple but met recently. Elara tells him not to explain himself—they are welcome regardless—but warns him not to tell Bastian, fearing the stern man might "slash him" for lying.
-        2.  **The Second Confession:** The Protagonist later tells Bastian the truth about the tadpoles. Bastian warns him not to mention it to Elara, fearing she will become too worried or frightened for him.
-        3.  **The Accomplices:** In a moment of playful mischief, both Elara and Bastian tell the Protagonist to hide these "partial truths" from Shadowheart. They are actually on the same page and acting as accomplices in a ruse, pretending to be "out of sync" so that Shadowheart believes each of them only knows a different part of the story.
-        4.  **The Breaking Point:** Unable to keep the secret, the Protagonist confesses to Shadowheart that he told Elara the truth about their identity. A furious Shadowheart seizes him, straddling him and grabbing him by the collar to demand the full story. He reveals he only told Elara they aren't a real couple (but didn't mention the tadpoles). Shadowheart sighs in relief and releases him.
-        5.  **The Final Reveal:** Immediately, the Protagonist admits he also told Bastian about the tadpoles. Shadowheart becomes enraged again, straddling him once more to demand the full truth. He finally confesses that he told Bastian about the parasites, but he only mentioned that *he* was infected, leaving her identity a secret.
-* **The Guardians:**
-    * **Bastian:** A muscular veteran and former mercenary paladin.
-    * **Elara:** A wise and mischievous veteran sorceress.
-* **Training & Growth:**
-    * **The Struggle:** Initial training is grueling due to the boy's weakened state; eventually, he begs Bastian to resume training so he can protect Shadowheart.
-    * **Bastian’s Secret:** Seeing his late son's determination in the boy, Bastian has been secretly refitting his late son's armor to fit the Protagonist perfectly.
-    * **Combat Experience:** Hunting aggressive threats like Mind Flayers and Intellect Devourers serves as a brutal training ground. Each kill triggers the first whispers—subtle, almost imperceptible murmurs that mark the beginning of an exponential psychological descent.
-* **The Romance:** A deep bond blooms with Shadowheart, characterized by nightly rituals of comfort to soothe his Dark Urge nightmares.
+- **The Ruse & "The Web of Secrets":**
+- **The Lie:** They pose as an eloped couple (a sheltered noble boy and a street-smart woman) to hide their parasites.
+- **Social Dynamics (Information Gaps & Playful Chaos):**
+
+1. **The First Confession:** Protagonist tells Elara they aren't a real couple and met recently. Elara welcomes them anyway, but warns him not to tell Bastian, fearing the stern paladin will be furious over the deception.
+2. **The Second Confession:** Protagonist tells Bastian about the mindflayer tadpoles. Bastian warns him to keep it secret from Elara so she doesn't panic.
+3. **The Accomplices:** Playfully mischievous, both Elara and Bastian secretly conspire with the Protagonist to keep these "partial truths" from Shadowheart, pretending to be out of sync so Shadowheart thinks each elder only knows a fragment.
+4. **The Breaking Point:** Overwhelmed by guilt, the Protagonist confesses to Shadowheart that he told Elara their couple persona was fake. An enraged Shadowheart straddles him, grabbing his collar to demand the full story. Hearing he kept the tadpoles secret, she sighs with relief and lets him go.
+5. **The Final Reveal:** Immediately after, he admits he told Bastian about the tadpoles. Shadowheart tackles him down again, straddling him in a panic. He confesses he only told Bastian _he_ was infected, leaving her identity concealed.
+
+- **The Guardians:**
+- **Bastian:** A muscular veteran paladin and former mercenary whose gruff exterior masks deep grief over a lost son.
+- **Elara:** A wise, mischievous veteran sorceress who provides maternal warmth and tactical insight.
+
+- **Training & Growth:**
+- **The Struggle:** Training starts off grueling due to the boy's frail body. Driven by a fierce desire to protect Shadowheart, he begs Bastian for harder instruction.
+- **Bastian’s Secret:** Recognizing his late son's grit in the boy, Bastian secretly refits his deceased son's custom armor to fit the Protagonist.
+- **Combat Experience:** Hunting regional threats (Mind Flayers, Intellect Devourers) serves as a brutal trial. Each kill whispers a faint, almost imperceptible murmur—marking the start of an exponential dark descent.
+
+- **The Romance:** A deep bond flourishes with Shadowheart, filled with nightly rituals of comfort to soothe his violent nightmares.
+
+---
 
 ## 3. The Path to a Cure & The Move to the Campsite
-*Summary: As the mission shifts from survival to finding a cure, the duo must balance their quest with the need for independence.*
+
+_Summary: As the mission shifts from mere survival to finding a cure, the duo seeks independence to safeguard their hosts._
 
 **Key Beats:**
-* **The New Objective:** Seeking the Archdruid of the Druids to find a way to remove the parasites.
-* **Establishing Independence:** To avoid accidentally harming Bastian and Elara during potential transformations, they establish a mobile campsite rather than staying at the farmhouse.
 
-## 4. The Emerald Grove & The Goblin Raid
-*Summary: Navigating the complex politics and violent tensions of the Druid Grove.*
+- **The New Objective:** Hearing tales of the Archdruid Halsin, they decide to seek the Emerald Grove for a potential cure.
+- **Establishing Independence:** Fearing that a sudden transformation or dark episode could harm Bastian and Elara, they pack up and set up a mobile campsite near the wilderness.
 
-**Key Beats:**
-* **The Conflict:** A goblin raid involving Aradin, Barth, Remira, and Wyll thrusts the Protagonist into local politics.
-* **Seeking Aid:** Meeting Nettie (the healer), who provides a vial of Wyvern poison and an oath: consume it if transformation begins.
-* **Shadow Secrets:** Discovery of Kagha’s secret communications with Shadow Druids.
-* **The Ultimatum:** Confronting Kagha, the Protagonist learns she is preparing a "Rite of Thorns" to purge non-druids; she offers a choice: eliminate the goblin threat or face the Rite.
+---
 
-## 5. Investigating Kagha
-*Summary: Using intelligence and persuasion to resolve the conflict within the Grove.*
+## 4. The Emerald Grove & Kagha's Ultimatum
+
+_Summary: Navigating the bitter politics and looming doom within the Druid Grove._
 
 **Key Beats:**
-* **Winning Over Kagha:** 
-    * The Protagonist uses `[DETECT THOUGHTS] [INTELLIGENCE]` to realize how her desperation has clouded her true nature.
-    * Using `[HISTORY]` (reciting the frescoes), the Protagonist instills pride in the grove's legacy, successfully convincing Kagha to switch sides. 
-    * **New Companion:** Kagha joins the party as an optional companion. This follows a pattern of the Protagonist meticulously gathering knowledge and asking locals about history, establishing him as a deeply curious individual who integrates himself into his surroundings through learning.
 
-## 6. Aftermath of the Ritual
-*Summary: The immediate consequences following the cessation of the Rite of Thorns.*
+- **The Conflict:** Arriving during a desperate skirmish at the gates involving Aradin, Barth, Remira, and Wyll, the Protagonist helps repel the advance guard.
+- **Seeking Aid:** He meets Nettie, who provides a vial of Wyvern poison alongside a solemn vow: consume it the moment transformation begins.
+- **Shadow Secrets:** The party uncovers evidence linking Kagha to the Shadow Druids.
+- **The Ultimatum:** Kagha, preparing the "Rite of Thorns" to seal and purge the grove from outsiders and refugees, gives an ultimatum: eliminate the goblin leaders threatening them or face total expulsion.
 
-**Key Beats:**
-* **The Reward & The Militia:** Once the ritual is stopped, Cal rewards the protagonist with Hellrider Gloves. While the Druids are too exhausted from the ritual to participate in combat, Tiefling members act as a militia/raid party.
+---
 
-## 7. Intelligence and the Hidden Path
-*Summary: Avoiding ambushes by gathering vital intelligence from survivors.*
+## 5. Investigating Kagha & The Unlikely Companions
+
+_Summary: Exposing internal corruption leads to an act of penance for Kagha and recruits a renowned hero to the party._
 
 **Key Beats:**
-* **The Warning:** Meeting Aradin's group, who reveal that goblins aren't just raiding—they are hunting to exterminate.
-* **The Secret Entrance:** Following goblin footprints to a hidden seam in a rock face, revealing a secret passage into the caverns.
-* **The Skirmish:** A swift battle within the cave to rescue Findel (a Tiefling) from a band of goblins.
 
-## 8. Avoiding the Ambush & Auntie Ethel
-*Summary: Navigating the treacherous wetlands and mediating high-stakes confrontations.*
+- **Exposing Kagha:**
+- Using `[DETECT THOUGHTS] [INTELLIGENCE]`, the Protagonist pierces through Kagha’s fear-driven paranoia and uncovers her treasonous deal with the Shadow Druids.
+- Leveraging `[HISTORY]` to cite ancient druidic frescoes, the Protagonist instills pride in the grove's true legacy, convincing Kagha to break her pledge to the Shadow Druids before the Rite of Thorns is completed.
 
-**Key Beats:**
-* **Cautious Detour:** Choosing to take a wide perimeter around the Blighted Village to avoid goblin ambushes.
-* **The Mediator:** Stepping between Auntie Ethel and two local men to prevent bloodshed.
-* **Strategic Wisdom:** Advising the desperate men against a reckless strike on Ethel's cottage, urging them to gather allies instead.
+- **Kagha's Penance (New Companion):**
+- Filled with remorse for her foolishness and attempt to isolate the grove from the vulnerable refugees, Kagha officially halts the Rite of Thorns.
+- As penance for her crimes and treason, she pledges her druidic powers to the Protagonist's cause, stepping down from leadership to join the party directly on the field.
 
-## 9. Establishing a Base at Blighted Village
-*Summary: Securing a new foothold in the region.*
+- **The Arrival of Wyll:**
+- Inspired by the Protagonist’s heroic deeds—stopping the dark ritual, redeeming Kagha, and securing safety for the Tiefling refugees—**Wyll, the Blade of Frontiers, officially joins the party**.
+- Sent by Mizora to hunt Karlach (who escaped the nautiloid), Wyll remains uninfected in this timeline and offers his blade to stand alongside such a selfless leader.
 
-**Key Beats:**
-* **Clearing the Way:** Using the Tiefling militia/raid party to clear the village of goblin presence.
-* **Base of Operations:** Once cleared, the Protagonist makes the Blighted Village their primary base of operations for upcoming confrontations.
+---
 
-## 10. Preparation to Confront the Hag
-*Summary: Setting the stage for a decisive confrontation.*
+## 6. Gathering Intelligence & Clearing the Blighted Village
+
+_Summary: Securing the road to Baldur's Gate for the desperate Tiefling refugees._
 
 **Key Beats:**
-* **The Final Alliance:** To confront Auntie Ethel, the party (Protagonist, Shadowheart, and Kagha) enlists the support of the Tiefling militia and a group of Adventurers. The Adventurers are skeptical of the hag's existence and require payment for their services.
-* **Wyll’s Arrival:** Following the ritual, Wyll arrives at the campsite/grove. He introduces himself as a "Blade of the Sword Coast" and invites the party to join his cause. In this timeline, Wyll was sent by Mizora to find Karlach (who escaped on the nautiloid) and is not infected by a tadpole.
 
-## 11. The Shrouded Vessel: The Dual Consciousness (Future Arc)
-*Summary: The psychological war between the human persona and the Dark Urge.*
+- **Zevlor’s Deal & Motivation:** Now that the Rite of Thorns is stopped, Zevlor and the Tieflings desperately want to leave the grove and head to Baldur’s Gate. However, the Blighted Village and surrounding roads are overrun by goblins and beasts. Seeing the Protagonist as their savior, Zevlor offers the Tiefling militia’s help to clear the road together.
+- **Reward & Intelligence Gathering:** Cal presents the party with the _Hellrider Gloves_. Meanwhile, speaking with Aradin’s battered squad reveals that the goblins aren't just raiding—they are fighting a disciplined extermination war under orders from Moonrise.
+- **The Battle for Blighted Village:** The Protagonist and the Tiefling militia launch a coordinated strike to cleanse the Blighted Village of goblin scouts and bugbears, establishing a critical foothold along the road.
+
+---
+
+## 7. The Return to the Grove & Mayrina’s Brothers
+
+_Summary: While the Tiefling militia recovers from the raid, a new personal tragedy arrives at the Grove's doorstep._
 
 **Key Beats:**
-* **The Split:** An Exarch of Mikhail discovers the boy's fractured psyche and splits him into two distinct, warring consciousnesses.
-* **Internal Civil War:** Navigating the battle between a gentle human identity and a bloodthirsty original soul.
-* **The Whisper Mechanic (Exponential Descent):** Every kill—whether human or creature—increases the intensity of the whispers. The progression follows an exponential scale ($2^{n-1}$ whispers). 
-    * **Early Kills:** A single, faint whisper that is easily dismissed as paranoia.
-    * **Mid-range Kills:** Multiple voices, growing louder and more persistent, creating constant mental static during combat.
-    * **High Kill Count (30-40+):** The whispers transform into clear, distinct, and commanding voices. They demand gore, ravaging, spoiling, and the defilement of corpses, making every act of violence a struggle against an unbearable urge to commit atrocities.
-* **Unconscious Violence:** Experiencing terrifying blackouts where the body acts out the Urge's muscle memory without permission.
-* **The Flawed Shield:** Consuming tadpoles to cage the Urge inadvertently feeds the original soul.
-* **Ceremorphosis Trap & Apotheosis:** The final mental duel within the mind realm during a failed transformation, leading to a unique hybrid existence.
+
+- **Wounded Militia:** After returning victorious from the Blighted Village, the Tieflings are exhausted and nursing combat injuries. They are in no position to fight or assist with further missions.
+- **The Encounter:** At the Grove, the Protagonist meets Mayrina's frantic brothers—**Johl and Demir**—who are desperately searching for their missing sister.
+- **Forming the Rescue Party:** With the Tieflings resting, only a small strike force is available: **Protagonist, Shadowheart, Gale, Wyll**, and the two brothers.
+
+---
+
+## 8. Auntie Ethel & The Fey Encounter
+
+_Summary: Confronting the hag in the wetlands leads to an unexpected encounter with an ancient Fey power._
+
+**Key Beats:**
+
+- **Confrontation with Auntie Ethel:** The party (Protagonist, Shadowheart, Gale, Wyll, and optional brothers) descends into the hag's lair to rescue Mayrina, overcoming illusions, poisoned masks, and Ethel's wicked magic.
+- **The Call of the Sanctuary:** While exiting the Sunlit Wetlands, a mysterious, melodic voice begins ringing inside the Protagonist’s head, beckoning him toward a ruined, ancient druid sanctuary tree buried deep in the marsh.
+- **The Fey Enchantress Emerges:** Leaving the main path to investigate, the Protagonist approaches the colossal, decayed tree. As his hand touches the ancient bark, magic weaves through the mist, and the **Fey Enchantress** steps forth from the hollow trunk—offering cryptic warnings about the ancient parasite in his head and the dark blood inside his veins.
+
+---
+
+## 9. The Siege of the Grove & The Dark Awakening
+
+_(Replaces the Alfira/Quil camp murder event)_
+
+_Summary: Minthara leads a full-scale assault on the Druid Grove. Desperate to save his companions and the refugees, the Protagonist unleashes an ancient, horrific power._
+
+**Key Beats:**
+
+- **The Siege Begins:** Minthara leads an army of goblins, war drums, and massive spiders to breach the Emerald Grove’s defenses. The Tiefling militia and party hold the ridge, but are rapidly overwhelmed by sheer numbers.
+- **Desperation & The Trigger:** With Shadowheart and his loved ones on the brink of being slaughter-bound, the Protagonist’s desire to protect transforms into a primal, overwhelming urge to _slaughter every single invader_.
+- **The Awakening (Burst of Blades):**
+- The Dark Urge awakens violently. Driven by extreme adrenaline and bloodlust, the Protagonist invokes a terrifying, visceral spell: **shards of bloody, agonizing blades burst outward from inside the bodies of the goblins and beasts**.
+- War-spiders and goblin soldiers erupt in an instant, gruesome massacre of blood and iron.
+
+- **Minthara’s Terror & Flight:** Horrified by the sudden, unnatural carnage and realizing she is outmatched by an eldritch abomination, Minthara retreats with her surviving generals. _(This sets up her judgment at Moonrise Towers in Act 2 for failing the Absolute)._
+- **Fear & Exile to the Riverside:**
+- Though the Grove is saved, the tieflings and druids look at the Protagonist not as a hero, but as a monster. The horror on their faces breaks his heart.
+- Fearing he will lose control again and turn on them, the community asks him to leave the inner grove. The party migrates back outside to set up camp near the **original seaside/riverside camp**, isolated from the refugees for everyone's safety.
+
+---
+
+## 10. The Shrouded Vessel: The Dual Consciousness (Future Arc)
+
+_Summary: The psychological war between the human identity and the Dark Urge reaches a crisis point._
+
+**Key Beats:**
+
+- **The Split:** An Exarch of Mikhail discovers the boy's fractured psyche, splitting him into two distinct, warring consciousnesses within his mind.
+- **Internal Civil War:** A constant battle between the gentle human persona who wants to love and protect, and the bloodthirsty original soul longing for carnage.
+- **The Whisper Mechanic (Exponential Descent):**
+- Every kill increases whisper intensity ($2^{n-1}$ scale).
+- _Early Kills:_ A faint murmur easily dismissed.
+- _Mid-range Kills:_ Overlapping voices creating combat static.
+- _High Kill Count (30-40+):_ Commanding, thunderous voices demanding mutilation, defilement, and utter destruction.
+
+- **Unconscious Violence:** Terrifying blackouts where the body executes the Dark Urge's muscle memory without his conscious consent.
+- **The Flawed Shield:** Consuming illithid tadpoles cages the Urge temporarily, but secretly nourishes his original divine soul.
+- **Ceremorphosis Trap & Apotheosis:** A final mind-realm duel during a failed transformation, culminating in a unique hybrid existence.
