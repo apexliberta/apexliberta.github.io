@@ -241,14 +241,44 @@ _Summary: A radical plan to split his consciousness and a dangerous ritual to ov
 
 - **Step 1: Soul Synchronization:** Both individuals must synchronize their soul wavelengths.
 - _Platonic Path:_ Takes years of deep spiritual alignment (similar to a cleric, priest, or monk synchronizing with a deity or nature).
-- _Intimate Path:_ Achieved far faster through deep emotional and physical intimacy (e.g., his bond with Shadowheart).
+- _Intimate Path:_ Achieved far faster through deep emotional and physical intimacy.
 
 - **Step 2: Fragment Transfer:** Only _after_ perfect synchronization can the partial soul transfer take place. Attempting this step without full alignment causes instant fatal feedback, killing both participants.
 - **Step 3: Permanent Binding:** Once transferred, the partner gains the immortality/power-sharing benefits alongside the severe vampire thrall drawbacks.
 
 ---
 
-## 14. Expanded Party Mechanics & Multi-Squad Operations
+## 14. First Candidate, Shadowheart's Fury, & Expanding the Ritual
+
+_Summary: Morgiana offers herself under a condition, causing friction with Shadowheart, while Kagha is recruited as a second candidate._
+
+**Key Beats:**
+
+- **Morgiana’s Offer & Condition:**
+- Morgiana steps forward as the first candidate for the soul-binding ritual.
+- **The Condition & The Curse:** She demands only one thing in exchange: the Protagonist must free **Thaniel** in the Shadow-Cursed Lands. She reveals that she herself is infected with the Shadow Curse.
+- **The Motivation:** Terrified of the lingering whispers tempting him to brutally harm Shadowheart, the Protagonist accepts Morgiana’s terms immediately—desperate to gain control before he loses himself and hurts his beloved.
+
+- **The Confession & Shadowheart’s Confrontation:**
+- True to his inability to keep secrets from those he loves, the Protagonist confesses everything to Shadowheart—Morgiana’s proposal, his acceptance, and the nature of the ritual.
+- **Shadowheart's Fury & Offer:** Enraged that he hid this from her and chose Morgiana as his partner, Shadowheart demands to take Morgiana's place in the ritual.
+- **The Rejection:** The Protagonist adamantly refuses. Knowing the severe vampiric thrall drawbacks of the ritual, he refuses to put Shadowheart in danger or bind her soul to his dark curse.
+- **The Emotional Divide:** Disappointed and hurt, Shadowheart interprets his rejection as him preparing for his own demise—expecting her to move on and live unimpeded if he fails. However, Shadowheart has already made him her sole reason for living (gradually discarding Shar). This conflict creates a major emotional obstacle in their romance, setting up an intense resolution in Act 2.
+
+- **Recruiting Kagha (The Second Candidate):**
+- **Morgiana’s Strategy:** To speed up the soul synchronization process, Morgiana advises recruiting additional ritual partners. Since it is impossible to predict whose soul will synchronize first, having multiple candidates ensures they can complete the ritual as fast as possible to stop his loss of control.
+- **Recommending Kagha:** Morgiana suggests **Kagha**, who holds deep respect for the Protagonist for halting the Rite of Thorns, saving the grove, and redeeming her.
+- **The Protagonist’s Hesitation:** The Protagonist resists at first, feeling that asking Kagha to subject herself to a dark ritual is taking selfish advantage of her.
+- **Shadowheart & Morgiana Intervene:** Both women step in to convince him. They explain that Kagha is consumed by overwhelming guilt over her past actions (trying to kill the tiefling child Arabella and exile the refugees). Joining the ritual gives Kagha a higher purpose and a true path to redemption.
+- **Acceptance:** Kagha gratefully joins the effort as the second candidate.
+
+- **The Nightly Synchronization:**
+- Every night at camp, the Protagonist spends dedicated time deepening his spiritual and emotional connection with Morgiana and Kagha to achieve soul synchronization.
+- Shadowheart occasionally joins these nightly sessions, balancing her lingering romantic hurt with her fierce devotion to keeping the Protagonist anchored.
+
+---
+
+## 15. Expanded Party Mechanics & Multi-Squad Operations
 
 _Summary: Unshackled from video game party limits, the group operates as a large traveling company, utilizing multi-squad tactics for complex missions._
 
@@ -259,7 +289,7 @@ _Summary: Unshackled from video game party limits, the group operates as a large
 
 ---
 
-## 15. The Shrouded Vessel: The Dual Consciousness (Future Arc)
+## 16. The Shrouded Vessel: The Dual Consciousness (Future Arc)
 
 _Summary: The psychological war between the human identity and the Dark Urge reaches a crisis point._
 
@@ -273,4 +303,4 @@ _Summary: The psychological war between the human identity and the Dark Urge rea
 
 - **Unconscious Violence:** Terrifying blackouts where the body executes the Dark Urge's muscle memory without his conscious consent.
 - **The Flawed Shield:** Consuming illithid tadpoles cages the Urge temporarily, but secretly nourishes his original divine soul.
-- **Ceremorphosis Trap & Final Apotheosis:** A final mind-realm duel between current self and past self during a failed transformation, where the Protagonist uses his stacked soul-karma to destroy his old identity and achieve complete self-sovereignty.
+- **Ceremorphosis Trap & Final Apotheosis:** A final mind-realm duel between current self and past self during a failed transformation, where the Protagonist uses his stacked soul-karma from synchronized ritual partners to destroy his old identity and achieve complete self-sovereignty.
